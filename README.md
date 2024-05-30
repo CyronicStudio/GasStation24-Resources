@@ -20,6 +20,14 @@ GasStation24 is a project aimed at revolutionizing the way people refuel their v
 
 Download the GasStation24 app from the Google Play Store and start refueling with ease!
 
+## Join Our Community 🌐
+
+Join our community to stay up-to-date with the latest news, updates, and announcements about GasStation24:
+
+- **Discord**: [GasStation24 Discord Community](https://discord.com/invite/sJCj8u2kUN)
+- **Feedback**: We value your feedback! Let us know what you think about GasStation24 and how we can improve by joining our Discord community or reaching out to us directly.
+
+
 ## Support 📞
 
 If you have any questions or need assistance with GasStation24, please don't hesitate to reach out to us. You can contact our support team at [help.cyronicstudio@gmail.com](help.cyronicstudio@gmail.com) and we'll be happy to help.
