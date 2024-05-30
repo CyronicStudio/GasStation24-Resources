@@ -1,6 +1,6 @@
 # GasStation24-Resources
 
-Welcome to the GasStation24-Resources repository! Here you'll find all the necessary resources related to GasStation24, including documentation, assets, and more.
+Welcome to the GasStation24-Resources repository! Here you'll find all the necessary resources related to GasStation24, including, assets, and more.
 it's A fan Made Game For Mobile
 
 ## About GasStation24 🚗⛽
