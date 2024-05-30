@@ -14,7 +14,7 @@ GasStation24 is a project aimed at revolutionizing the way people refuel their v
 - **Background Samples**: Sample code snippets and projects demonstrating how to interact with GasStation24 APIs and services.
 - **FAQ**: Answers to frequently asked questions about GasStation24 and its features.
 - 
-## Download GasStation24 App 📱
+## Download GasStation24 From PlayStore 📱
 
 [![Google Play Store](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.gasstation24)
 
